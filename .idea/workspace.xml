@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="872846fa-5921-4c0a-ba31-0a4e5ecf55b1" name="Default Changelist" comment="" />
+    <list default="true" id="872846fa-5921-4c0a-ba31-0a4e5ecf55b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +12,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aXVolDY2Q0l4sSm4mIRtAJzTtR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +29,54 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowServices.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.task_5">
+    <configuration name="Polindrome_task" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Polindrome_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,6 +98,99 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_calk" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_calk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Polindrome_task" />
+      <item itemvalue="Python.task_1" />
+      <item itemvalue="Python.task_2" />
+      <item itemvalue="Python.task_3" />
+      <item itemvalue="Python.task_4" />
+      <item itemvalue="Python.task_5" />
+      <item itemvalue="Python.tkinter_calk" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.task_2" />
@@ -84,33 +227,60 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="461" y="100" key="#Inspections/0.23.1440.823@0.23.1440.823" timestamp="1609154089178" />
-    <state x="58" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609155189008">
+    <state x="58" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609334990452">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="58" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1609155189008" />
-    <state width="640" height="393" key="GridCell.Tab.0.bottom" timestamp="1609168789491">
+    <state x="58" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/-259.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1609273822756" />
+    <state x="58" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1609334990452" />
+    <state width="1303" height="229" key="GridCell.Tab.0.bottom" timestamp="1609717220289">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="640" height="393" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1609168789491" />
-    <state width="640" height="393" key="GridCell.Tab.0.center" timestamp="1609168789490">
+    <state width="1303" height="229" key="GridCell.Tab.0.bottom/-259.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1609276806913" />
+    <state width="1303" height="229" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1609717220289" />
+    <state width="1303" height="229" key="GridCell.Tab.0.center" timestamp="1609717220289">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="640" height="393" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1609168789490" />
-    <state width="640" height="393" key="GridCell.Tab.0.left" timestamp="1609168789489">
+    <state width="1303" height="229" key="GridCell.Tab.0.center/-259.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1609276806912" />
+    <state width="1303" height="229" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1609717220289" />
+    <state width="1303" height="229" key="GridCell.Tab.0.left" timestamp="1609717220288">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="640" height="393" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1609168789489" />
-    <state width="640" height="393" key="GridCell.Tab.0.right" timestamp="1609168789490">
+    <state width="1303" height="229" key="GridCell.Tab.0.left/-259.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1609276806911" />
+    <state width="1303" height="229" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1609717220288" />
+    <state width="1303" height="229" key="GridCell.Tab.0.right" timestamp="1609717220289">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="640" height="393" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1609168789490" />
+    <state width="1303" height="229" key="GridCell.Tab.0.right/-259.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1609276806913" />
+    <state width="1303" height="229" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1609717220289" />
+    <state width="1303" height="263" key="GridCell.Tab.1.bottom" timestamp="1609717220281">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1303" height="263" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1609717220281" />
+    <state width="1303" height="263" key="GridCell.Tab.1.center" timestamp="1609717220279">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1303" height="263" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1609717220279" />
+    <state width="1303" height="263" key="GridCell.Tab.1.left" timestamp="1609717220278">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1303" height="263" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1609717220278" />
+    <state width="1303" height="263" key="GridCell.Tab.1.right" timestamp="1609717220280">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1303" height="263" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1609717220280" />
     <state x="103" y="73" key="SettingsEditor" timestamp="1609149251122">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="103" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1609149251122" />
-    <state x="371" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1609149153919">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="371" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1609887942689">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state x="371" y="270" key="com.intellij.ide.util.TipDialog/-259.-1057.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1609256823866" />
     <state x="371" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1609149153919" />
+    <state x="371" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1609887942689" />
+    <state x="599" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1609190732504">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="599" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1609190732504" />
   </component>
 </project>
